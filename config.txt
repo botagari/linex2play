@@ -1,6 +1,6 @@
 token=NTg0NTM1Mzk1MDkwMzAwOTU5.XPMVCA.4kjwD7ISsuMcFNkTed60b2LrNBo
 owner=567694723679125514  
 prefix=2
-game=2Play
+game=Dgymnasium.
 stayinchannel=true
 songinstatus=true
